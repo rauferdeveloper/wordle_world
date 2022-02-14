@@ -1,0 +1,27 @@
+[
+  {
+    "code": "USA",
+    "url": "https://www.nytimes.com/games/wordle/index.html",
+    "label": "EEUU"
+  },
+  {
+    "code": "ES",
+    "url": "https://wordle.danielfrg.com/",
+    "label": "Spanish"
+  },
+  {
+    "code": "GL",
+    "url": "https://wordlegalego.appspot.com/",
+    "label": "Galician"
+  },
+  {
+    "code": "CA",
+    "url": "https://gelozp.com/games/wordle/",
+    "label": "Catalan"
+  },
+  {
+    "code": "EU",
+    "url": "https://wordle.talaios.coop/",
+    "label": "Basque"
+  },
+]
